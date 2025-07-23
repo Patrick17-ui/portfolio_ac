@@ -44,7 +44,7 @@ export function ProjectsSection() {
       description:
         "Une application complète de gestion de transport permettant de suivre les livraisons, d'optimiser les itinéraires et de gérer efficacement les dépenses liées aux trajets des véhicules.",
       image: "/images/connexion.png",
-      tags: ["React", "Electron JS", "PostgreSQL","Node JS" "Tailwind CSS"],
+      tags: ["React", "Electron JS", "PostgreSQL","Node JS", "Tailwind CSS"],
       githubUrl: "https://github.com/Patrick17-ui/Truck_Expenss",
       category: "Web App",
       year: "2025",
