@@ -35,7 +35,7 @@ export function ProjectsSection() {
         "Site personnel moderne et responsive présentant mon profil, mon parcours, mes compétences et mes projets. Développé avec Next.js et Tailwind CSS, il inclut des animations fluides et un design adaptatif.",
       image: "/images/portfolio-hero.png",
       tags: ["Next.js", "Tailwind CSS", "Framer Motion"],
-      githubUrl: "https://github.com/Patrick17-ui/portfolio",
+      githubUrl: "https://github.com/Patrick17-ui/portfolio_ac",
       category: "Web App",
       year: "2024",
     },
