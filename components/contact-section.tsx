@@ -26,7 +26,7 @@ export function ContactSection() {
     {
       icon: MapPin,
       title: "Localisation",
-      value: "Douala, Cameroun",
+      value: "Bafoussam, Cameroun",
       color: "from-purple-500 to-violet-500",
     },
   ]
