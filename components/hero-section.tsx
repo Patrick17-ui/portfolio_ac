@@ -57,7 +57,7 @@ export function HeroSection() {
           transition={{ delay: 0.4, duration: 0.6 }}
           className="text-xl md:text-3xl text-muted-foreground mb-8 font-light"
         >
-          Développeur Web Full Stack & Junior IA
+          Développeur Web Full Stack
         </motion.h2>
 
         <motion.p
