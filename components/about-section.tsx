@@ -63,9 +63,9 @@ export function AboutSection() {
               <CardContent className="pt-6">
                 <div className="space-y-6">
                   <p className="text-lg leading-relaxed text-muted-foreground">
-                    Titulaire d'un{" "}
+                    Titulaire d'une{" "}
                     <span className="text-primary font-semibold">
-                      Master 1 en Informatique option Intelligence Artificielle
+                      Licence en Informatique
                     </span>
                     , je suis un développeur web passionné avec plus de{" "}
                     <span className="text-primary font-semibold">3 années d'expérience</span>
