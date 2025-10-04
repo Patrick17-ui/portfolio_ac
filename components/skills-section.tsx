@@ -17,7 +17,7 @@ export function SkillsSection() {
       title: "Backend",
       icon: Server,
       color: "from-green-500 to-emerald-500",
-      skills: ["Next.js", "ASP.NET Core", "Django", "Flask", "Laravel", "Node.js", "Express.js"],
+      skills: ["Next.js", "ASP.NET Core", "Django", "Flask", "Laravel", "Ionic", "Node.js", "Express.js"],
     },
     {
       title: "Base de données",
