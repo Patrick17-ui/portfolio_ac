@@ -8,8 +8,8 @@ import { MapPin, Calendar, GraduationCap } from "lucide-react"
 
 export function AboutSection() {
   const highlights = [
-    { icon: GraduationCap, label: "Master 1 IA", value: "Intelligence Artificielle" },
-    { icon: Calendar, label: "Expérience", value: "3+ années" },
+    { icon: GraduationCap, label: "Licence ", value: "Genie Logiciel" },
+    { icon: Calendar, label: "Expérience", value: "2+ années" },
     { icon: MapPin, label: "Localisation", value: "Douala, Cameroun" },
   ]
 
@@ -68,7 +68,7 @@ export function AboutSection() {
                       Licence en Informatique
                     </span>
                     , je suis un développeur web passionné avec plus de{" "}
-                    <span className="text-primary font-semibold">3 années d'expérience</span>
+                    <span className="text-primary font-semibold">2 années d'expérience</span>
                     dans la création d'applications web modernes et performantes.
                   </p>
 
