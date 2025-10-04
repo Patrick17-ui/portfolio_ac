@@ -86,7 +86,7 @@ export function Footer() {
             <div className="space-y-2 text-muted-foreground">
               <p>djoumbissiepatrick0@gmail.com</p>
               <p>+237 696-728-362</p>
-              <p>Bafoussam, Cameroun</p>
+              <p>Douala, Cameroun</p>
             </div>
           </motion.div>
         </div>
